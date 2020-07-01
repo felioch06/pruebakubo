@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color: #007BFF;
+    padding: 50px;
+    text-align: center;
+    color: white;
+}
